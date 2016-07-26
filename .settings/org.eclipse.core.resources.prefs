@@ -34,3 +34,5 @@ encoding//standardLib/exec_eval.py=utf-8
 encoding//standardLib/lambda.py=utf-8
 encoding//standardLib/statement.py=utf-8
 encoding//standardLib/sysmodule.py=utf-8
+encoding//variables/global_var.py=utf-8
+encoding//variables/test2.py=utf-8
