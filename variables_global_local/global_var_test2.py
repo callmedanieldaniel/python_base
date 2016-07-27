@@ -6,7 +6,5 @@ def displayTest1():
     while True:
         print "GLOBAL_1,GLOBAL_2",GLOBAL_1,GLOBAL_2
         time.sleep(1.5)
-
-# while True:
-#     displayTest1()
-#     time.sleep(1)
+        
+displayTest1()
