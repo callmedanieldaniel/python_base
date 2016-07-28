@@ -28,7 +28,8 @@ def showmenu():
     while True: 
         while True: 
             try:
-                choice = raw_input(pr).strip()[0].lower() 
+                choice = raw_input(pr).strip()[0].lower()
+                print raw_input(pr).strip()[0].lower()
             except (EOFError, KeyboardInterrupt, IndexError):
                 choice = 'q'
             print '\nYou picked: [%s]' % choice 
