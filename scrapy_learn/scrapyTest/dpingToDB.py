@@ -2,6 +2,7 @@
 
 
 from items import RegionItem
+from repr import Repr
 
 region = RegionItem()
 
@@ -12,7 +13,10 @@ region['href'] = [u'/search/category/2/0/r1488']
 
 print "-----",region
 restr = str(region)
+rere = repr(region)
 print "str:",restr
+print "---"
+print "rere:",rere,"--",type(rere),type(region)
 
 with open('db.txt','a+') as f:
     f.truncate()
