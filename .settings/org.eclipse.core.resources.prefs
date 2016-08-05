@@ -37,6 +37,7 @@ encoding//inputOutput/fileWrite.py=utf-8
 encoding//inputOutput/storer.py=utf-8
 encoding//inputOutput/storer2.py=utf-8
 encoding//scrapyTest/product.py=utf-8
+encoding//scrapy_learn/pymongoConn/mongoConn.py=utf-8
 encoding//scrapy_learn/scrapyTest/dpingToDB.py=utf-8
 encoding//scrapy_learn/scrapyTest/items.py=utf-8
 encoding//standardLib/assert.py=utf-8
