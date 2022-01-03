@@ -21,7 +21,7 @@ d = cp.deepcopy(a) #对象拷贝，深拷贝
 a.append(5) #修改对象a
 a[4].append('c') #修改对象a中的['a', 'b']数组对象
 
-print 'a = ', a
+print('a = ', a)
 print 'b = ', b
 print 'c = ', c
 print 'd = ', d
